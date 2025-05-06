@@ -1,0 +1,354 @@
+{
+  "transactions": [
+    {
+      "id": "a1b2c3d4-e5f6-47g8-h9i0-j1k2l3m4n5o6",
+      "amount": 45.75,
+      "category": "Food & Dining",
+      "date": "2025-01-05",
+      "description": "Grocery shopping"
+    },
+    {
+      "id": "p7q8r9s0-t1u2-43v4-w5x6-y7z8a9b0c1d2",
+      "amount": 120.0,
+      "category": "Transportation",
+      "date": "2025-01-10",
+      "description": "Car maintenance"
+    },
+    {
+      "id": "e3f4g5h6-i7j8-49k0-l1m2-n3o4p5q6r7s8",
+      "amount": 850.0,
+      "category": "Housing",
+      "date": "2025-02-01",
+      "description": "Monthly rent"
+    },
+    {
+      "id": "t9u0v1w2-x3y4-45z6-a7b8-c9d0e1f2g3h4",
+      "amount": 65.3,
+      "category": "Utilities",
+      "date": "2025-02-15",
+      "description": "Electricity bill"
+    },
+    {
+      "id": "i5j6k7l8-m9n0-41p2-q3r4-s5t6u7v8w9x0",
+      "amount": 30.0,
+      "category": "Entertainment",
+      "date": "2025-03-02",
+      "description": "Movie tickets"
+    },
+    {
+      "id": "y1z2a3b4-c5d6-47e8-f9g0-h1i2j3k4l5m6",
+      "amount": 89.99,
+      "category": "Shopping",
+      "date": "2025-03-10",
+      "description": "Clothing purchase"
+    },
+    {
+      "id": "n7o8p9q0-r1s2-43t4-u5v6-w7x8y9z0a1b2",
+      "amount": 150.0,
+      "category": "Healthcare",
+      "date": "2025-04-05",
+      "description": "Doctor visit"
+    },
+    {
+      "id": "c3d4e5f6-g7h8-49i0-j1k2-l3m4n5o6p7q8",
+      "amount": 200.0,
+      "category": "Education",
+      "date": "2025-04-20",
+      "description": "Online course"
+    },
+    {
+      "id": "r9s0t1u2-v3w4-45x6-y7z8-a9b0c1d2e3f4",
+      "amount": 450.0,
+      "category": "Travel",
+      "date": "2025-05-01",
+      "description": "Flight tickets"
+    },
+    {
+      "id": "g5h6i7j8-k9l0-41m2-n3o4-p5q6r7s8t9u0",
+      "amount": 25.0,
+      "category": "Other",
+      "date": "2025-05-15",
+      "description": "Miscellaneous"
+    },
+    {
+      "id": "v1w2x3y4-z5a6-47b8-c9d0-e1f2g3h4i5j6",
+      "amount": 32.5,
+      "category": "Food & Dining",
+      "date": "2025-06-02",
+      "description": "Restaurant dinner"
+    },
+    {
+      "id": "k7l8m9n0-p1q2-43r4-s5t6-u7v8w9x0y1z2",
+      "amount": 15.0,
+      "category": "Transportation",
+      "date": "2025-06-10",
+      "description": "Bus fare"
+    },
+    {
+      "id": "a3b4c5d6-e7f8-49g0-h1i2-j3k4l5m6n7o8",
+      "amount": 75.0,
+      "category": "Utilities",
+      "date": "2025-07-01",
+      "description": "Internet bill"
+    },
+    {
+      "id": "p9q0r1s2-t3u4-45v6-w7x8-y9z0a1b2c3d4",
+      "amount": 60.0,
+      "category": "Entertainment",
+      "date": "2025-07-15",
+      "description": "Concert tickets"
+    },
+    {
+      "id": "e5f6g7h8-i9j0-41k2-l3m4-n5o6p7q8r9s0",
+      "amount": 110.0,
+      "category": "Shopping",
+      "date": "2025-08-05",
+      "description": "Electronics purchase"
+    },
+    {
+      "id": "t1u2v3w4-x5y6-47z8-a9b0-c1d2e3f4g5h6",
+      "amount": 80.0,
+      "category": "Healthcare",
+      "date": "2025-08-20",
+      "description": "Pharmacy"
+    },
+    {
+      "id": "i7j8k9l0-m1n2-43o4-p5q6-r7s8t9u0v1w2",
+      "amount": 300.0,
+      "category": "Education",
+      "date": "2025-09-01",
+      "description": "Textbooks"
+    },
+    {
+      "id": "x3y4z5a6-b7c8-49d0-e1f2-g3h4i5j6k7l8",
+      "amount": 600.0,
+      "category": "Travel",
+      "date": "2025-09-15",
+      "description": "Hotel booking"
+    },
+    {
+      "id": "m9n0p1q2-r3s4-45t6-u7v8-w9x0y1z2a3b4",
+      "amount": 50.0,
+      "category": "Other",
+      "date": "2025-10-05",
+      "description": "Donation"
+    },
+    {
+      "id": "c5d6e7f8-g9h0-41i2-j3k4-l5m6n7o8p9q0",
+      "amount": 28.0,
+      "category": "Food & Dining",
+      "date": "2025-10-10",
+      "description": "Coffee shop"
+    },
+    {
+      "id": "r1s2t3u4-v5w6-47x8-y9z0-a1b2c3d4e5f6",
+      "amount": 40.0,
+      "category": "Transportation",
+      "date": "2025-11-01",
+      "description": "Taxi ride"
+    },
+    {
+      "id": "g7h8i9j0-k1l2-43m4-n5o6-p7q8r9s0t1u2",
+      "amount": 900.0,
+      "category": "Housing",
+      "date": "2025-11-15",
+      "description": "Rent payment"
+    },
+    {
+      "id": "v3w4x5y6-z7a8-49b0-c1d2-e3f4g5h6i7j8",
+      "amount": 55.0,
+      "category": "Utilities",
+      "date": "2025-12-05",
+      "description": "Water bill"
+    },
+    {
+      "id": "k9l0m1n2-p3q4-45r6-s7t8-u9v0w1x2y3z4",
+      "amount": 20.0,
+      "category": "Entertainment",
+      "date": "2025-12-10",
+      "description": "Streaming subscription"
+    },
+    {
+      "id": "a5b6c7d8-e9f0-41g2-h3i4-j5k6l7m8n9o0",
+      "amount": 70.0,
+      "category": "Shopping",
+      "date": "2025-01-02",
+      "description": "Gift purchase"
+    },
+    {
+      "id": "p1q2r3s4-t5u6-47v8-w9x0-y1z2a3b4c5d6",
+      "amount": 200.0,
+      "category": "Healthcare",
+      "date": "2025-01-15",
+      "description": "Dental checkup"
+    },
+    {
+      "id": "e7f8g9h0-i1j2-43k4-l5m6-n7o8p9q0r1s2",
+      "amount": 250.0,
+      "category": "Education",
+      "date": "2025-02-01",
+      "description": "Workshop fee"
+    },
+    {
+      "id": "t3u4v5w6-x7y8-49z0-a1b2-c3d4e5f6g7h8",
+      "amount": 350.0,
+      "category": "Travel",
+      "date": "2025-02-15",
+      "description": "Train tickets"
+    },
+    {
+      "id": "i9j0k1l2-m3n4-45o6-p7q8-r9s0t1u2v3w4",
+      "amount": 15.0,
+      "category": "Other",
+      "date": "2025-03-05",
+      "description": "Parking fee"
+    },
+    {
+      "id": "x5y6z7a8-b9c0-41d2-e3f4-g5h6i7j8k9l0",
+      "amount": 38.25,
+      "category": "Food & Dining",
+      "date": "2025-03-10",
+      "description": "Takeout order"
+    },
+    {
+      "id": "m1n2p3q4-r5s6-47t8-u9v0-w1x2y3z4a5b6",
+      "amount": 22.0,
+      "category": "Transportation",
+      "date": "2025-04-01",
+      "description": "Gas station"
+    },
+    {
+      "id": "c7d8e9f0-g1h2-43i4-j5k6-l7m8n9o0p1q2",
+      "amount": 950.0,
+      "category": "Housing",
+      "date": "2025-04-15",
+      "description": "Mortgage payment"
+    },
+    {
+      "id": "r3s4t5u6-v7w8-49x0-y1z2-a3b4c5d6e7f8",
+      "amount": 45.0,
+      "category": "Utilities",
+      "date": "2025-05-05",
+      "description": "Gas bill"
+    },
+    {
+      "id": "g9h0i1j2-k3l4-45m6-n7o8-p9q0r1s2t3u4",
+      "amount": 35.0,
+      "category": "Entertainment",
+      "date": "2025-05-10",
+      "description": "Amusement park"
+    },
+    {
+      "id": "v5w6x7y8-z9a0-41b2-c3d4-e5f6g7h8i9j0",
+      "amount": 65.0,
+      "category": "Shopping",
+      "date": "2025-06-01",
+      "description": "Home decor"
+    },
+    {
+      "id": "k1l2m3n4-p5q6-47r8-s9t0-u1v2w3x4y5z6",
+      "amount": 90.0,
+      "category": "Healthcare",
+      "date": "2025-06-15",
+      "description": "Prescription"
+    },
+    {
+      "id": "a7b8c9d0-e1f2-43g4-h5i6-j7k8l9m0n1o2",
+      "amount": 180.0,
+      "category": "Education",
+      "date": "2025-07-05",
+      "description": "Certification exam"
+    },
+    {
+      "id": "p3q4r5s6-t7u8-49v0-w1x2-y3z4a5b6c7d8",
+      "amount": 500.0,
+      "category": "Travel",
+      "date": "2025-07-15",
+      "description": "Vacation package"
+    },
+    {
+      "id": "e9f0g1h2-i3j4-45k6-l7m8-n9o0p1q2r3s4",
+      "amount": 10.0,
+      "category": "Other",
+      "date": "2025-08-01",
+      "description": "Charity"
+    },
+    {
+      "id": "t5u6v7w8-x9y0-41z2-a3b4-c5d6e7f8g9h0",
+      "amount": 42.0,
+      "category": "Food & Dining",
+      "date": "2025-08-10",
+      "description": "Lunch with friends"
+    },
+    {
+      "id": "i1j2k3l4-m5n6-47o8-p9q0-r1s2t3u4v5w6",
+      "amount": 18.0,
+      "category": "Transportation",
+      "date": "2025-09-05",
+      "description": "Parking"
+    },
+    {
+      "id": "x7y8z9a0-b1c2-43d4-e5f6-g7h8i9j0k1l2",
+      "amount": 875.0,
+      "category": "Housing",
+      "date": "2025-09-15",
+      "description": "Rent"
+    },
+    {
+      "id": "m3n4p5q6-r7s8-49t0-u1v2-w3x4y5z6a7b8",
+      "amount": 70.0,
+      "category": "Utilities",
+      "date": "2025-10-01",
+      "description": "Phone bill"
+    },
+    {
+      "id": "c9d0e1f2-g3h4-45i6-j7k8-l9m0n1o2p3q4",
+      "amount": 25.0,
+      "category": "Entertainment",
+      "date": "2025-10-10",
+      "description": "Museum entry"
+    },
+    {
+      "id": "r5s6t7u8-v9w0-41x2-y3z4-a5b6c7d8e9f0",
+      "amount": 55.0,
+      "category": "Shopping",
+      "date": "2025-11-05",
+      "description": "Books"
+    },
+    {
+      "id": "g1h2i3j4-k5l6-47m8-n9o0-p1q2r3s4t5u6",
+      "amount": 120.0,
+      "category": "Healthcare",
+      "date": "2025-11-15",
+      "description": "Medical test"
+    },
+    {
+      "id": "v7w8x9y0-z1a2-43b4-c5d6-e7f8g9h0i1j2",
+      "amount": 220.0,
+      "category": "Education",
+      "date": "2025-12-01",
+      "description": "Seminar"
+    },
+    {
+      "id": "k3l4m5n6-p7q8-49r0-s1t2-u3v4w5x6y7z8",
+      "amount": 400.0,
+      "category": "Travel",
+      "date": "2025-12-10",
+      "description": "Car rental"
+    },
+    {
+      "id": "a9b0c1d2-e3f4-45g6-h7i8-j9k0l1m2n3o4",
+      "amount": 30.0,
+      "category": "Other",
+      "date": "2025-12-15",
+      "description": "Gift card"
+    },
+    {
+      "id": "7b7ca048-3359-4b7b-89fe-49a682db7690",
+      "amount": 1000.0,
+      "category": "Travel",
+      "date": "2025-05-06",
+      "description": "Test record"
+    }
+  ]
+}
