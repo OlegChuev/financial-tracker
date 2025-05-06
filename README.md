@@ -52,14 +52,20 @@ python3 -m app.main
 
 ## Project Structure
 
-| File | Description |
-|------|-------------|
-| `app/main.py` | Main application entry point |
-| `app/tkinter_app.py` | GUI implementation |
-| `app/transaction.py` | Transaction class definition |
-| `app/file_manager.py` | Data persistence handling |
-| `app/plotter.py` | Data visualization utilities |
+| File/Folder                | Description                                 |
+|----------------------------|---------------------------------------------|
+| `app/main.py`              | Main application entry point                |
+| `app/ui/main_window.py`    | Main window and navigation logic            |
+| `app/ui/add_expense_form.py` | Add Expense dialog/form UI                |
+| `app/ui/expense_table.py`  | Expense history table UI (grouped/sortable) |
+| `app/ui/analysis_window.py`| Expense analysis/chart UI                   |
+| `app/transaction.py`       | Transaction class definition                |
+| `app/file_manager.py`      | Data persistence handling                   |
+| `app/plotter.py`           | Data visualization utilities                |
+| `app/constants.py`         | UI and category constants                   |
+| `requirements.txt`         | Python dependencies                         |
 
+All UI-related code is now organized under the `app/ui/` directory for clarity and maintainability.
 
 ## Contributing
 
