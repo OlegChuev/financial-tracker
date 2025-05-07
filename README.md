@@ -67,6 +67,39 @@ python3 -m app.main
 
 All UI-related code is now organized under the `app/ui/` directory for clarity and maintainability.
 
+## Testing
+
+The project includes a comprehensive test suite using Python's built-in `unittest` framework. Tests are organized in the `tests/` directory and cover core functionality of the application.
+
+### Running Tests
+
+To run all tests:
+```bash
+python -m unittest discover tests
+```
+
+To run a specific test file:
+```bash
+python -m unittest tests/test_transaction.py
+```
+
+### Test Structure
+
+| Test File                  | Description                                 |
+|---------------------------|---------------------------------------------|
+| `tests/test_transaction.py` | Tests for Transaction class creation and methods |
+| `tests/test_file_manager.py` | Tests for data persistence and file operations |
+| `tests/test_console_app.py` | Tests for console interface functionality |
+
+### Writing New Tests
+
+When adding new features, please ensure to:
+1. Create corresponding test cases in the appropriate test file
+2. Follow the existing test structure using `unittest.TestCase`
+3. Use meaningful test method names starting with `test_`
+4. Include docstrings explaining what each test verifies
+5. Mock external dependencies (file operations, user input) when necessary
+
 ## Contributing
 
 1. Fork the repository
